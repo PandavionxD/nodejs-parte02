@@ -1,7 +1,6 @@
 ## Mi primer proyecto con Node - Yargs y Winston
 
-
-#Comandos para iniciar la App
+Comandos para iniciar la App
 
 ````
 1. Iniciar
